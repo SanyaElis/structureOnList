@@ -1,0 +1,11 @@
+# ninja log v5
+1	752	6749926124175173	CMakeFiles/structureOnList.dir/main.cpp.obj	bd0fff4730ab0ccb
+757	1030	6749926126863188	structureOnList.exe	9ec03ecc36c3ea22
+6	543	6749926723913473	CMakeFiles/structureOnList.dir/main.cpp.obj	bd0fff4730ab0ccb
+544	779	6749926726263390	structureOnList.exe	9ec03ecc36c3ea22
+8	825	6749928551655610	CMakeFiles/structureOnList.dir/main.cpp.obj	bd0fff4730ab0ccb
+826	1028	6749928553687000	structureOnList.exe	9ec03ecc36c3ea22
+7	614	6749934877475956	CMakeFiles/structureOnList.dir/main.cpp.obj	bd0fff4730ab0ccb
+615	817	6749934879309829	structureOnList.exe	9ec03ecc36c3ea22
+5	542	6749944605854284	CMakeFiles/structureOnList.dir/main.cpp.obj	bd0fff4730ab0ccb
+551	728	6749944607602468	structureOnList.exe	9ec03ecc36c3ea22
